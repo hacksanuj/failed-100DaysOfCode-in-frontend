@@ -1,4 +1,4 @@
-# Day 1
+# Day 1️
 
 Well it's my first day of learning Web development. There were various course but I started learning from Freecodecamp you can also check this course: [responsive web design](https://www.freecodecamp.org/learn/responsive-web-design)
 
