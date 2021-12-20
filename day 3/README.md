@@ -1,4 +1,4 @@
-# Day 3
+# Day 3️⃣
 
 Yup, It's Day 3 of 100daysofcode. I have completed the Basic HTML and HTML5 course from freecodecamp you can also check this course: [responsive web design](https://www.freecodecamp.org/learn/responsive-web-design).
 
