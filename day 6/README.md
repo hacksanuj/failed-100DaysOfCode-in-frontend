@@ -1,4 +1,10 @@
-# Day 
+# Day 6️⃣
+
+## 👨‍💻 Coded 👨‍💻
+
+![Catapp](catapp.png)
+
+# 📚 Learning 📚
 
 Yup, It's Day 6 of 100daysofcode. I have started learning CSS from none other than FreeCodeCamp it's called Basic CSS. 
 You can also follow this amazing course here: [Basic CSS](https://www.freecodecamp.org/learn/responsive-web-design/#basic-css) 
@@ -18,10 +24,8 @@ So, What the hack I learned Today:
     - how to add border to your element
     - circular border
 
-   
-# Image
 
-![Catapp](catapp.png)
+
 ## 🔗 Links
 
 connect with me.
