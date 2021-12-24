@@ -1,4 +1,4 @@
-# Day 
+# Day 7️⃣
 
 Yup, It's Day 7 of 100daysofcode. I have started learning CSS from none other than FreeCodeCamp it's called Basic CSS. 
 You can also follow this amazing course here: [Basic CSS](https://www.freecodecamp.org/learn/responsive-web-design/#basic-css) 
