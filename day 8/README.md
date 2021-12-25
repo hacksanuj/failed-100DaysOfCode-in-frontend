@@ -1,4 +1,4 @@
-# Day 
+# Day 8️⃣
 
 WOW, its day 8 of 100daysofcode. I have finished the Basic CSS course from Freecode camp, laerned some really cool stuff from this course. 
 You can also follow this amazing course here: [Basic CSS](https://www.freecodecamp.org/learn/responsive-web-design/#basic-css) 
