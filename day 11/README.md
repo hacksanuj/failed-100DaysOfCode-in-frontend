@@ -1,4 +1,4 @@
-# Day 
+# Day 1️⃣1️⃣
 
 WOW, its day 10 of 100daysofcode. I have completed the Applied Visual Design course from Freecodecamp.
 You can also follow this amazing course here: [Applied Visual Design](https://www.freecodecamp.org/learn/responsive-web-design/#applied-visual-design) 
