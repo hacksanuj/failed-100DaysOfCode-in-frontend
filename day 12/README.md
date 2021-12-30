@@ -1,4 +1,4 @@
-# Day 
+# Day 1️⃣2️⃣
 
 Today I made a biolink/linkter anternative for myself using HTML and CSS.
 I also deployed the website on vercel.
